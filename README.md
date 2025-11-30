@@ -31,7 +31,7 @@ Access the website via http://localhost/Untitled.html
 
 
 ### Live Website Link : 
-[GOVHUB](https://govhub.000webhostapp.com/)
+[GOVHUB](https://tanawlakhe.gt.tc/)
 ### Source Code Link : 
 [github.com/Tanmay](https://github.com/TanmayNawlakhe/Government-Schemes-and-Exams-Website)
 
